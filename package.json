@@ -1,8 +1,12 @@
 {
   "name": "react-onclick-mixer",
   "version": "1.0.0",
-  "description": "",
+  "description": "onClick wrapper component for emitting new onClick event based on document's click event and html element's click event",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zplanet/react-onclick-mixer"
+  },
   "scripts": {
     "build": "./node_modules/.bin/webpack",
     "test": "jest --u --no-watchman"
