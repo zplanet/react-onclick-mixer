@@ -1,6 +1,6 @@
 {
   "name": "react-onclick-mixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "onClick wrapper component for emitting new onClick event based on document's click event and html element's click event",
   "main": "dist/index.js",
   "repository": {
@@ -13,6 +13,13 @@
   },
   "author": "Jong Hoon Kim",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "onclick",
+    "outside",
+    "document",
+    "event"
+  ],
   "jest": {
     "setupFiles": [
       "./src/setupTests.js"
